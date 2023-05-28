@@ -1,0 +1,161 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+
+/* #font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    font-size: 2em;
+    1em=16px;
+    font-style: italic;
+    font-weight: 900;
+}
+
+#text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a:link {
+    color: rgb(133, 63, 40);
+}
+
+a:visited {
+    color: rgb(79, 165, 42);
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:active {
+    color: bisque;
+} */
+
+
+/* .bordercss {
+    width: 500px;
+    height: 300px;
+    background-color: aqua;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    border: 5px black solid;
+    border-radius: 50px;
+} */
+
+
+/* ul {
+    list-style: square;
+}
+
+ol {
+    list-style-type: lower-greek;
+} */
+
+
+/* .boxmodel {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+
+input {
+    margin: 50px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+} */
+
+
+/* p {
+    width: 200px;
+    height: 100px;
+    border: 10px red dashed;
+    overflow: scroll;
+} */
+
+
+/* 
+.father {
+    width: 500px;
+    height: 350px;
+    position: relative;
+    background-color: aqua;
+}
+
+.pos1 {
+    width: 100px;
+    height: 60px;
+    background-color: rgb(2, 34, 34);
+    position: absolute;
+    left: 0;
+}
+
+.pos2 {
+    width: 100px;
+    height: 60px;
+    background-color: rgb(93, 169, 26);
+    position: absolute;
+    right: 0;
+}
+
+.pos3 {
+    width: 100px;
+    height: 60px;
+    background-color: rgb(227, 24, 224);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.pos4 {
+    width: 100px;
+    height: 60px;
+    background-color: rgb(28, 72, 203);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+} */
+
+
+/* .header {
+    height: 60px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.logo {
+    height: 60px;
+    width: 100px;
+    background-color: beige;
+    text-align: center;
+    line-height: 40px;
+    float: left;
+}
+
+.menu {
+    background-color: rgb(182, 137, 126);
+    line-height: 40px;
+    height: 60px;
+}
+
+ul {
+    list-style: none;
+    text-align: right;
+}
+
+li {
+    display: inline-block;
+    word-spacing: 3px;
+    padding: 8px;
+    cursor: wait;
+} */
